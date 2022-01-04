@@ -1,0 +1,29 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyluak/web-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyluak/web-scraper/issues"
+  },
+  "homepage": "https://github.com/andyluak/web-scraper#readme",
+  "dependencies": {
+    "@fast-csv/format": "^4.3.5",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "pupeteer": "0.0.1",
+    "puppeteer": "^13.0.1"
+  }
+}

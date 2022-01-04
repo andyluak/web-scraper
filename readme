@@ -1,0 +1,1 @@
+#### run-func index2.js startScrape "https://www.evo.com/shop/snowboard/snowboards/mens/s_average-rating-desc" "index.csv"
